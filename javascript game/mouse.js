@@ -1,4 +1,4 @@
-class mouse {
+class Mouse {
   constructor() {
     this.x = 50;
     this.y = height - 50;
